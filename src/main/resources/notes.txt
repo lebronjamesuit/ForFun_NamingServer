@@ -1,0 +1,3 @@
+
+Netflix Eureka – Là một Service Discovery Server cho phép các dịch vụ microservices 
+tự đăng ký mình vào danh sách các services hoạt động lúc khởi chạy.
